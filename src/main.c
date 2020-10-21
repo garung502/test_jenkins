@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("DICOM ZZZZZZZZZZZZZZ ! \n");
+    printf("DICOM AAAAAAAAAAAAAAAaaa ! \n");
 
     return 0;
 }
