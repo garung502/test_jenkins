@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("DiCom company ! \n");
+    printf("DICOM ZZZZZZZZZZZZZZ ! \n");
 
     return 0;
 }
